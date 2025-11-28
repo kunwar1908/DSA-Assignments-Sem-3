@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
-#include <vector> // Using vector for dynamic approach in a cleaner way for #2
+#include <vector>
+#include <limits>
 
 using namespace std;
 
