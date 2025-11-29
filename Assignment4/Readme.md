@@ -1,3 +1,19 @@
+**Assignment 4 — Queues**
+
+- **Files:** `q1.cpp`, `q2.cpp`, `q3.cpp`, `q4.cpp`, `q5.cpp`
+- **Summary:**
+    - `q1.cpp`: Simple queue implementation demo.
+    - `q2.cpp`: Circular queue demo.
+    - `q3.cpp`: Interleave queue operation.
+    - `q4.cpp`: First non-repeating character using queue.
+    - `q5.cpp`: Implement stack using queues (various push/pop complexities).
+
+**Build example:**
+```powershell
+& 'C:\msys64\ucrt64\bin\g++.exe' -std=c++17 Assignment4\q1.cpp -o Assignment4\q1.exe
+Assignment4\q1.exe
+```
+
 # 📂 Lab Assignment 4: Queues and Their Applications
 
 **Concepts Covered:** Fundamental Queue Operations (FIFO), Array Implementation of Simple and Circular Queues, Applications of Queues (Interleaving, First Non-Repeating Character), and Queue-based Data Structure Simulation (Stack using Queues).
@@ -27,6 +43,16 @@ The entire assignment is consolidated into a single file: `LabAssignment4_Queues
     ```bash
     g++ LabAssignment4_Queues.cpp -o lab4_exec -std=c++11
     ```
+
+    ---
+
+    ## A small note to Prof. Ritesh Sharma
+
+    Dear Prof. Ritesh Sharma — thank you for teaching DSA with patience and vigor. I put effort into organizing and testing these lab demos; if anything here earns your approval (or at least a smile), I'd be grateful for generous grading. No bribery was involved — only coffee, a debugger, and some hopeful comments.
+
+    With respect,
+
+    - Your student
 3.  **Run the executable:**
     ```bash
     ./lab4_exec

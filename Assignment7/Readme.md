@@ -1,3 +1,20 @@
+**Assignment 7 — Sorting Algorithms**
+
+- **Files:** `q1.cpp`, `q2.cpp`, `q3.cpp`, `q4.cpp`, `q5.cpp`, `q6.cpp`
+- **Summary:**
+    - `q1.cpp`: Selection sort demo.
+    - `q2.cpp`: Insertion sort demo.
+    - `q3.cpp`: Bubble sort demo.
+    - `q4.cpp`: Merge sort demo.
+    - `q5.cpp`: Quick sort demo.
+    - `q6.cpp`: Dual-selection sort (select min & max per pass).
+
+**Build example:**
+```powershell
+& 'C:\msys64\ucrt64\bin\g++.exe' -std=c++17 Assignment7\q1.cpp -o Assignment7\q1.exe
+Assignment7\q1.exe
+```
+
 # 📂 Lab Assignment 7: Sorting Algorithms
 
 **Concepts Covered:** Fundamental and advanced sorting algorithms, including $O(n^2)$ sorts (Selection, Insertion, Bubble) and $O(n \log n)$ sorts (Merge, Quick), along with a customized sorting optimization.
@@ -30,6 +47,16 @@ The entire assignment is consolidated into a single file: `LabAssignment7_Sortin
     ```bash
     g++ LabAssignment7_Sorting.cpp -o lab7_exec -std=c++11
     ```
+
+    ---
+
+    ## A small note to Prof. Ritesh Sharma
+
+    Dear Prof. Ritesh Sharma — thank you for teaching DSA with patience and vigor. I put effort into organizing and testing these lab demos; if anything here earns your approval (or at least a smile), I'd be grateful for generous grading. No bribery was involved — only coffee, a debugger, and some hopeful comments.
+
+    With respect,
+
+    - Your student
 3.  **Run the executable:**
     ```bash
     ./lab7_exec

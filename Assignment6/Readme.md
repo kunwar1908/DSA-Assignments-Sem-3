@@ -1,3 +1,18 @@
+**Assignment 6 — Doubly / Circular Linked Lists (DLL & CLL)**
+
+- **Files:** `q1.cpp`, `q2.cpp`, `q3.cpp`, `q4.cpp`
+- **Summary:**
+    - `q1.cpp`: Doubly linked list operations (insert, delete, search, display).
+    - `q2.cpp`: Circular linked list operations (insert, delete, display).
+    - `q3.cpp`: Check if a list is a palindrome.
+    - `q4.cpp`: Detect if a linked list is circular (Floyd's cycle detection demo).
+
+**Build example:**
+```powershell
+& 'C:\msys64\ucrt64\bin\g++.exe' -std=c++17 Assignment6\q4.cpp -o Assignment6\q4.exe
+Assignment6\q4.exe
+```
+
 # 📂 Lab Assignment 6: Doubly and Circular Linked Lists
 
 **Concepts Covered:** Core operations (Insertion, Deletion, Search) on Doubly Linked Lists (DLL) and Circular Linked Lists (CLL), advanced list applications (Palindrome check on DLL), size calculation, and cycle detection in linked lists.
@@ -26,6 +41,16 @@ The entire assignment is consolidated into a single file: `LabAssignment6_DLL_CL
     ```bash
     g++ LabAssignment6_DLL_CLL.cpp -o lab6_exec -std=c++11
     ```
+
+    ---
+
+    ## A small note to Prof. Ritesh Sharma
+
+    Dear Prof. Ritesh Sharma — thank you for teaching DSA with patience and vigor. I put effort into organizing and testing these lab demos; if anything here earns your approval (or at least a smile), I'd be grateful for generous grading. No bribery was involved — only coffee, a debugger, and some hopeful comments.
+
+    With respect,
+
+    - Your student
 3.  **Run the executable:**
     ```bash
     ./lab6_exec

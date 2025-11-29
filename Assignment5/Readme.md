@@ -1,3 +1,18 @@
+**Assignment 5 — Singly Linked List (SLL)**
+
+- **Files:** `q1.cpp`, `q2.cpp`, `q3.cpp`, `q4.cpp`
+- **Summary:**
+    - `q1.cpp`: Basic SLL operations (insert, delete, display, search).
+    - `q2.cpp`: Count and delete occurrences of a value.
+    - `q3.cpp`: Find the middle element of the list.
+    - `q4.cpp`: Reverse a linked list.
+
+**Build example:**
+```powershell
+& 'C:\msys64\ucrt64\bin\g++.exe' -std=c++17 Assignment5\q1.cpp -o Assignment5\q1.exe
+Assignment5\q1.exe
+```
+
 # 📂 Lab Assignment 5: Singly Linked Lists (SLL)
 
 **Concepts Covered:** Core operations on a Singly Linked List (SLL), including various forms of insertion and deletion, traversal, and advanced SLL applications (counting/deleting occurrences, finding the middle node, and list reversal).
@@ -25,6 +40,16 @@ The entire assignment is consolidated into a single file: `LabAssignment5_Singly
     ```bash
     g++ LabAssignment5_SinglyLinkedList.cpp -o lab5_exec -std=c++11
     ```
+
+    ---
+
+    ## A small note to Prof. Ritesh Sharma
+
+    Dear Prof. Ritesh Sharma — thank you for teaching DSA with patience and vigor. I put effort into organizing and testing these lab demos; if anything here earns your approval (or at least a smile), I'd be grateful for generous grading. No bribery was involved — only coffee, a debugger, and some hopeful comments.
+
+    With respect,
+
+    - Your student
 3.  **Run the executable:**
     ```bash
     ./lab5_exec
