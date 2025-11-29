@@ -52,7 +52,7 @@ The entire assignment is consolidated into a single file: `LabAssignment4_Queues
 
     With respect,
 
-    - Your student
+    - CR (2C8)
 3.  **Run the executable:**
     ```bash
     ./lab4_exec

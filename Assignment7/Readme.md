@@ -56,7 +56,7 @@ The entire assignment is consolidated into a single file: `LabAssignment7_Sortin
 
     With respect,
 
-    - Your student
+    - CR (2C8)
 3.  **Run the executable:**
     ```bash
     ./lab7_exec

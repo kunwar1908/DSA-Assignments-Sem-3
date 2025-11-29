@@ -50,7 +50,7 @@ The entire assignment is consolidated into a single file: `LabAssignment6_DLL_CL
 
     With respect,
 
-    - Your student
+    - CR (2C8)
 3.  **Run the executable:**
     ```bash
     ./lab6_exec

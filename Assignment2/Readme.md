@@ -61,7 +61,7 @@ The entire assignment is consolidated into a single file: `LabAssignment2_Advanc
 
     With respect,
 
-    - Your student
+    - CR (2C8)
 3.  **Run the executable:**
     ```bash
     ./lab2_exec

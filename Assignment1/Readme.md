@@ -74,4 +74,4 @@ int main() {
 
         With respect,
 
-        - Your student
+        - CR (2C8)
